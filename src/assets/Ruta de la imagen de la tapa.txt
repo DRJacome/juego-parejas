@@ -1,0 +1,4 @@
+- La ruta para acceder a la imagen de la tapa (reverse) de las imágenes:
+https://www.html6.es/img/rey_.png
+
+- Si (por el contrario) quieres descargar todas las imágenes: https://www.html6.es/curso/reyes.zip
